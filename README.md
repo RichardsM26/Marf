@@ -5,7 +5,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | ggplot2 | Plotitng for a phenotypic data review |
-| Functions | A useful tool for repetitive code | [Functions](https://richardsm26.github.io/Marf/Functions.md) |
+| Functions | A useful tool for repetitive code | [Functions](https://richardsm26.github.io/Marf/Functions.html) |
 | Data management | How should data be managed |
 | DataquieR | A tool for quality control |
 | Introduction to PLINK | How to prepare data for analysis | [View information](https://richardsm26.github.io/Marf/Introduction_to_Plink.html) |
