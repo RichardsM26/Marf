@@ -12,6 +12,5 @@ Welcome to Marfworld
 
 ## Blog
 
-- [Week 1 - Getting Started](https://richardsm26.github.io/blog.md)
-- [Week 2 - What I Learned](https://YOURUSERNAME.github.io/blog/week2)
+[📝 Blog](https://richardsm26.github.io/blog)
 
