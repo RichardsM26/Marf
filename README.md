@@ -4,7 +4,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| ggplot2 | Plotitng for a phenotypic data review |
+| ggplot2 | Plotting for a phenotypic data review | [ggplot2](https://richardsm26.github.io/Marf/ggplot2.html) |
 | Functions | A useful tool for repetitive code | [Functions](https://richardsm26.github.io/Marf/Functions.html) |
 | Data management | How should data be managed |
 | DataquieR | A tool for quality control |
