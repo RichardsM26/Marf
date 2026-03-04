@@ -9,7 +9,7 @@
 | [Data management](https://richardsm26.github.io/Marf/datamanagement-].html) | How should data be managed |
 | [DataquieR](https://richardsm26.github.io/Marf/Dataquire.html) | A tool for quality control |
 | [Introduction to PLINK](https://richardsm26.github.io/Marf/PLINK_INSTRUCTIONS.html) | How to prepare data for analysis | 
-| Principal Components | Plotitng for a phenotypic data review |
+| Principal Components | Dimensionality Reduction technique |
 
 
 ## Blog
