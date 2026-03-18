@@ -10,9 +10,8 @@
 | [DataquieR](https://richardsm26.github.io/Marf/Dataquire.html) | A tool for quality control |
 | [Introduction to PLINK](https://richardsm26.github.io/Marf/PLINK_INSTRUCTIONS.html) | How to prepare data for analysis | 
 | [Principal Components](https://richardsm26.github.io/Marf/principal_componants.html) | Dimensionality Reduction Technique |
-| [Ancestry Proportions](Estimating_ancestry_proportions_from_allele_frequencies_only.Rmd) | Allele Frequencies only |
-| [Ancestry Proportions] | From Individual-level Data |
-
+| [Ancestry Inference Tutorial](tutorial_four.html) | From Individual-level Data, Allele Frequencies and Grouping |
+| [Ancestry Inference Blank Tutorial]
 
 ## Blog
 [📝 Blog](https://mjvrichards-kroqz.wordpress.com)
